@@ -4,7 +4,7 @@ This repository contains my resolutions for lab assignments, which is the homewo
 
 Download the lab materails on 
 
-[the CSAPP website]: http://csapp.cs.cmu.edu/3e/labs.html
+[the CSAPP website]: http://csapp.cs.cmu.edu/3e/labs.html	"the CSAPP website"
 
 , and the this repository only contains only the files students should modify.
 
