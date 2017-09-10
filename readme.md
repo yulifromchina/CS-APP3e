@@ -2,11 +2,7 @@
 
 This repository contains my resolutions for lab assignments, which is the homework for CMU's students in the lecture The Computer Architecture.
 
-Download the lab materails on 
-
-[the CSAPP website]: http://csapp.cs.cmu.edu/3e/labs.html	"the CSAPP website"
-
-, and the this repository only contains only the files students should modify.
+Download the lab materails on [the CSAPP website](http://csapp.cs.cmu.edu/3e/labs.html), and the this repository only contains only the files students should modify.
 
 
 
